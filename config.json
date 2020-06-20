@@ -1,5 +1,5 @@
 {
-"token": "TOKENHERE"
-"owner": "ownerIDHERE"
-
+"token": "TOKENHERE",
+"owner": "ownerIDHERE",
+"mainServerId": "IDHERE"
 }
